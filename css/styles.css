@@ -6602,14 +6602,31 @@ button.close {
     display: none !important; } }
 /*# sourceMappingURL=bootstrap.css.map */
 h1, h2, h3, h4, h5, h6, p, a {
-  color: #3a3b36; }
+  color: #3a3b36;
+  letter-spacing: 1px; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Abril Fatface", cursive; }
+
+p {
+  font-family: "Josefin Slab", serif;
+  font-size: 22px; }
 
 #firstcontainer {
   margin-top: -20px;
-  height: 50vh;
+  height: 60vh;
   background-attachment: fixed;
   background: #EEEEEE;
   position: relative; }
+  #firstcontainer h1 {
+    font-family: "Josefin Slab", serif;
+    font-size: 50px;
+    font-weight: lighter; }
+  #firstcontainer h3 {
+    margin-top: -14px;
+    font-family: "Josefin Slab", serif;
+    font-size: 25px;
+    font-weight: lighter; }
   #firstcontainer #headercontainer {
     position: absolute;
     left: 50%;
@@ -6619,18 +6636,39 @@ h1, h2, h3, h4, h5, h6, p, a {
       text-align: center; }
   #firstcontainer #date {
     position: absolute;
-    top: 32vh;
+    top: 35vh;
     left: 50%;
     transform: translate(-50%, -50%); }
+  #firstcontainer input {
+    position: absolute;
+    top: 48vh;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background: transparent; }
 
 #secondcontainer {
   position: relative; }
   #secondcontainer #insider {
     margin-top: 5vh;
     margin-bottom: 5vh; }
+    #secondcontainer #insider h2 {
+      font-family: "Josefin Slab", serif;
+      font-weight: 600;
+      font-size: 40px;
+      color: #E8616C; }
+    #secondcontainer #insider p {
+      margin-top: -15px; }
     #secondcontainer #insider h2, #secondcontainer #insider p {
       margin: 0,0,0,0;
       text-align: center; }
+    #secondcontainer #insider .col-md-3 {
+      border-right: 1px;
+      border-color: #979797; }
 
 #thirdcontainer {
   background-attachment: fixed;
@@ -6640,8 +6678,11 @@ h1, h2, h3, h4, h5, h6, p, a {
     #thirdcontainer .container h3 {
       margin-bottom: 8vh; }
     #thirdcontainer .container p {
+      font-weight: 300;
       margin-bottom: 16vh; }
 
+#speakersection .company, #speakersection .position {
+  font-size: 15px; }
 #speakersection .row {
   margin-top: 9vh;
   margin-bottom: 9vh; }
@@ -6671,20 +6712,69 @@ h1, h2, h3, h4, h5, h6, p, a {
 #features h4, #features h5 {
   color: #ffffff; }
 #features h5 {
-  font-size: 18px;
-  margin: 10px; }
+  font-family: "Abril Fatface", cursive;
+  font-weight: lighter;
+  font-size: 20px;
+  margin-top: 40px;
+  line-height: 1.5;
+  margin-left: 30px;
+  margin-right: 30px;
+  letter-spacing: 1px; }
 #features h4 {
+  font-family: "Abril Fatface", cursive;
   margin-left: -20px;
   margin-top: 6vh;
-  font-size: 60px; }
+  font-size: 50px; }
 #features .coloredtext {
   padding-left: 3vw;
   background: #E8616C;
-  height: 40vh; }
+  height: 35vh; }
 #features .imagecontainer {
-  height: 40vh;
+  height: 35vh;
+  background: url("../assets/students.png");
   background-size: cover; }
 #features #businessnetworking {
-  background: url("../assets/businessnetworking.png"); }
+  height: 35vh;
+  background: url("../assets/businessnetworking.png");
+  background-size: cover; }
 #features #idea {
-  background: url("../assets/students.png"); }
+  height: 35vh;
+  background: url("../assets/students.png");
+  background-size: cover; }
+#features #panel {
+  height: 35vh;
+  background: url("../assets/panel.png");
+  background-size: cover; }
+
+#chumma {
+  height: 10vh;
+  background: #f5f5f5; }
+
+#newsletter {
+  padding-bottom: 9vh;
+  text-align: center; }
+  #newsletter h2 {
+    font-family: "Josefin Slab", serif;
+    font-weight: lighter;
+    margin-top: 9vh; }
+  #newsletter h4 {
+    font-family: "Josefin Slab", serif;
+    font-weight: lighter;
+    margin-top: 5vh; }
+  #newsletter input {
+    padding: 10px;
+    margin-top: 5vh;
+    width: 40%;
+    border-radius: 5px;
+    border-width: .5px;
+    font-family: "Josefin Slab", serif;
+    font-weight: lighter; }
+  #newsletter .pinkbutton {
+    background: #E8616C;
+    color: #ffffff;
+    font-family: "Josefin Slab", serif;
+    font-weight: lighter; }
+
+#footer {
+  height: 25vh;
+  background: #f5f5f5; }

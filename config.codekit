@@ -24,6 +24,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/firstbg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 246650,
+		"inputAbbreviatedPath": "\/assets\/firstbg.png",
+		"outputAbbreviatedPath": "\/assets\/firstbg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 420986,
+		"inputAbbreviatedPath": "\/assets\/logo.png",
+		"outputAbbreviatedPath": "\/assets\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/panel.png": {
 		"fileType": 32768,
 		"ignore": 0,

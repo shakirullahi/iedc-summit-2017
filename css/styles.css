@@ -6710,8 +6710,8 @@ p {
   margin-top: 9vh;
   margin-bottom: 9vh; }
 #speakersection #chiefguest {
-  height: 120px;
-  width: 120px; }
+  height: 204px;
+  width: 204px; }
 #speakersection #chiefguestname {
   margin-left: 60px;
   margin-top: 20px; }
@@ -6754,19 +6754,18 @@ p {
   height: 35vh; }
 #features .imagecontainer {
   height: 35vh;
-  background: url("../assets/students.png");
   background-size: cover; }
 #features #businessnetworking {
   height: 35vh;
-  background: url("../assets/businessnetworking.png");
+  background: url("../assets/img1.JPG");
   background-size: cover; }
 #features #idea {
   height: 35vh;
-  background: url("../assets/students.png");
+  background: url("../assets/img2.JPG");
   background-size: cover; }
 #features #panel {
   height: 35vh;
-  background: url("../assets/panel.png");
+  background: url("../assets/img4.JPG");
   background-size: cover; }
 
 #chumma {

@@ -35,6 +35,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img1.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6.09797e+06,
+		"inputAbbreviatedPath": "\/assets\/img1.JPG",
+		"outputAbbreviatedPath": "\/assets\/img1.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img2.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5.85725e+06,
+		"inputAbbreviatedPath": "\/assets\/img2.JPG",
+		"outputAbbreviatedPath": "\/assets\/img2.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img3.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6.17056e+06,
+		"inputAbbreviatedPath": "\/assets\/img3.JPG",
+		"outputAbbreviatedPath": "\/assets\/img3.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img4.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5.61133e+06,
+		"inputAbbreviatedPath": "\/assets\/img4.JPG",
+		"outputAbbreviatedPath": "\/assets\/img4.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -75,6 +119,105 @@
 		"initialSize": 3246,
 		"inputAbbreviatedPath": "\/assets\/smallspeaker.png",
 		"outputAbbreviatedPath": "\/assets\/smallspeaker.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/speakers\/Amaldev.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 102799,
+		"inputAbbreviatedPath": "\/assets\/speakers\/Amaldev.png",
+		"outputAbbreviatedPath": "\/assets\/speakers\/Amaldev.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/speakers\/Dr.Jay.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71382,
+		"inputAbbreviatedPath": "\/assets\/speakers\/Dr.Jay.png",
+		"outputAbbreviatedPath": "\/assets\/speakers\/Dr.Jay.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/speakers\/Nagaraja Prakasam.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92463,
+		"inputAbbreviatedPath": "\/assets\/speakers\/Nagaraja Prakasam.png",
+		"outputAbbreviatedPath": "\/assets\/speakers\/Nagaraja Prakasam.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/speakers\/pinarayi.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90565,
+		"inputAbbreviatedPath": "\/assets\/speakers\/pinarayi.png",
+		"outputAbbreviatedPath": "\/assets\/speakers\/pinarayi.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/speakers\/pradeep Bhatt.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84132,
+		"inputAbbreviatedPath": "\/assets\/speakers\/pradeep Bhatt.png",
+		"outputAbbreviatedPath": "\/assets\/speakers\/pradeep Bhatt.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/speakers\/rajan-anandan.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80731,
+		"inputAbbreviatedPath": "\/assets\/speakers\/rajan-anandan.png",
+		"outputAbbreviatedPath": "\/assets\/speakers\/rajan-anandan.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/speakers\/Saji Gopinath.PNG": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97452,
+		"inputAbbreviatedPath": "\/assets\/speakers\/Saji Gopinath.PNG",
+		"outputAbbreviatedPath": "\/assets\/speakers\/Saji Gopinath.PNG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/speakers\/Sivasankar M.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83170,
+		"inputAbbreviatedPath": "\/assets\/speakers\/Sivasankar M.png",
+		"outputAbbreviatedPath": "\/assets\/speakers\/Sivasankar M.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/speakers\/varun Chandran.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79483,
+		"inputAbbreviatedPath": "\/assets\/speakers\/varun Chandran.png",
+		"outputAbbreviatedPath": "\/assets\/speakers\/varun Chandran.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

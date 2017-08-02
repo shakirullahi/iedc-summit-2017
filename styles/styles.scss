@@ -139,8 +139,8 @@ p{
 		margin-bottom: 9vh;
 	}
 	#chiefguest{
-		height: 120px;
-		width: 120px;
+		height: 204px;
+		width: 204px;
 	}
 	#chiefguestname{
 		margin-left: 60px;
@@ -201,22 +201,22 @@ transform: translateX(18%);
 	}
 	.imagecontainer{
 		height: 35vh;
-		background: url("../assets/students.png");
+		//background: url("../assets/students.png");
 		background-size: cover;
 	}
 	#businessnetworking{
 	height: 35vh;
-	background: url("../assets/businessnetworking.png");
+	background: url("../assets/img1.JPG");
 	background-size: cover;
 }
 #idea{
 	height: 35vh;
-	background: url("../assets/students.png");
+	background: url("../assets/img2.JPG");
 	background-size: cover;
 }
 #panel{
 	height: 35vh;
-	background: url("../assets/panel.png");
+	background: url("../assets/img4.JPG");
 	background-size: cover;
 }
 }

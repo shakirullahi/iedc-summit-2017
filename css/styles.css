@@ -6459,7 +6459,25 @@ button.close {
 .visible-lg-inline,
 .visible-lg-inline-block {
   display: none !important; }
+
+@media (min-width: 990px) {
+  .white-color-text{
+    color: #ffffff;
+  }
+}
 @media (max-width: 990px) {
+
+  #firstcontainer {
+    background-attachment: fixed;
+    background: url(../assets/firstbg.png);
+    background-size: cover;
+    position: relative;
+  }
+
+  #bgvid{
+    display: none;
+  }
+
   #speakersection #chiefguest {
   margin: 0 auto;
   }
@@ -6641,9 +6659,9 @@ p {
 #firstcontainer {
   margin-top: -20px;
   height: 60vh;
-  background-attachment: fixed;
+  /*background-attachment: fixed;*/
   /*background: url("../assets/firstbg.png");*/
-  background-size: cover;
+  /*background-size: cover;*/
   position: relative; }
   #firstcontainer h1 {
     font-family: "Josefin Slab", serif;
@@ -6835,6 +6853,3 @@ video#bgvid {
     background-attachment: fixed;
     background: #ffffff;
   }
-.white-color-text{
-  color: #ffffff;
-}

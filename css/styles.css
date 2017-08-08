@@ -6628,7 +6628,7 @@ p {
   margin-top: -20px;
   height: 60vh;
   background-attachment: fixed;
-  background: url("../assets/firstbg.png");
+  /*background: url("../assets/firstbg.png");*/
   background-size: cover;
   position: relative; }
   #firstcontainer h1 {
@@ -6800,3 +6800,27 @@ p {
 #footer {
   height: 25vh;
   background: #f5f5f5; }
+
+video#bgvid { 
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url(polina.jpg) no-repeat;
+    background-size: cover; 
+}
+#fourthcontainer {
+    background-attachment: fixed;
+    background: #ffffff;
+  }
+.white-color-text{
+  color: #ffffff;
+}

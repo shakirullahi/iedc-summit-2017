@@ -4123,7 +4123,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 
 @media (min-width: 768px) {
   .navbar {
-    border-radius: 4px; } }
+    /*border-radius: 4px; */
+    } }
 @media (min-width: 768px) {
   .navbar-header {
     float: left; } }
@@ -6679,11 +6680,20 @@ p {
     transform: translate(-50%, -50%); }
     #firstcontainer #headercontainer h1, #firstcontainer #headercontainer h5 {
       text-align: center; }
-  #firstcontainer #date {
+
+  #firstcontainer #date{
     position: absolute;
     top: 40vh;
     left: 50%;
     transform: translate(-50%, -50%); }
+
+  #firstcontainer #venue {
+    position: absolute;
+    top: 47vh;
+    left: 50%;
+    /*text-align: center;*/
+    transform: translate(-50%, -50%); }
+
   #firstcontainer input {
     box-shadow: 0 0 0 0;
     position: absolute;
@@ -6830,7 +6840,10 @@ text-align: center;}
     font-weight: lighter; }
 
 #footer {
-  height: 25vh;
+  height: 25px;
+  background: #f5f5f5; }
+
+#newsletter {
   background: #f5f5f5; }
 
 video#bgvid { 
@@ -6849,7 +6862,16 @@ video#bgvid {
     background: url(../assets/video-bg.jpg) no-repeat;
     background-size: cover; 
 }
-#fourthcontainer {
+#fourthcontainer, #venue-container {
     background-attachment: fixed;
     background: #ffffff;
+}
+
+#venue-container{
+    padding-top: 30px;
+}
+ #venue-container h2, #venue-container h3, #venue-container h4 {
+  text-align: center;
+    font-family: "Josefin Slab", serif;
+    font-weight: lighter; 
   }
